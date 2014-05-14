@@ -13,6 +13,7 @@ var UniqueFilter = require('./unique_filter');
 
 var configLoader = ConfigLoader(fs, JSON);
 var config = configLoader.loadConfig();
+var httpPort = config.httpPort=='process.env.PORT' ? process.env.PORT : config.httpPort;
 
 var nanoDB = nano(config.couchDBURL).db;
 var lookoutCouch = nanoDB.use(config.couchDBDatabase);
@@ -30,5 +31,8 @@ var ipAnalyzer = IPAnalyzer(config.blockSize);
 var httpServer = HttpServer(lookoutCouch, persistanceLayer, ipAnalyzer, console);
 var udpServer = UDPServerUsesCouchDB(nodeUDPServer, config.udpPort, config.udpHost, persistanceLayer, IpEvent);
 
-http.createServer(httpServer.handleHTTPRequest).listen(config.httpPort);
+
+http.createServer(httpServer.handleHTTPRequest).listen(httpPort, function() {
+    console.log('http server listening on port '+httpPort);
+});
 udpServer.beginListening();

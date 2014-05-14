@@ -1,0 +1,13 @@
+{
+    "udpPort": 33333,
+    "udpHost": "0.0.0.0",
+    "httpPort": "process.env.PORT",
+    "blockSize": 16,
+    "ipEventProtoDescPath": "ip_event.desc",
+    "ipEventSchemaFullyQualifiedName": "lookout.backend_coding_questions.q1.IpEvent",
+    "persistanceType": "memory",
+    "couchDBURL": "http://0.0.0.0:5984",
+    "couchDBDatabase": "lookout",
+    "numberOfNewRecordsBeforeViewRecomputation": 1000000,
+    "eventsToQueueBeforeUploadToCouch": 20000
+}

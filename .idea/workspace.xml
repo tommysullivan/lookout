@@ -1,8 +1,1137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e34188-f7dd-4845-872d-1d289689070f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+    <list default="true" id="66e34188-f7dd-4845-872d-1d289689070f" name="Default" comment="adding client output to readme&#10;">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/CHANGES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/CONTRIBUTORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/INSTALL.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/Makefile.am" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/Makefile.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/aclocal.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/autogen.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/config.guess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/config.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/config.h.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/config.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/config.status" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/config.sub" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/configure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/configure.ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/depcomp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/editors/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/editors/proto.vim" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/editors/protobuf-mode.el" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/AddPerson.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/ListPeople.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/add_person.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/add_person.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/addressbook.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/list_people.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/examples/list_people.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/generate_descriptor_proto.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/CHANGES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/CONTRIBUTORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/Makefile.am" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/Makefile.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/aclocal.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/config.guess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/config.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/config.h.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/config.sub" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/depcomp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/install-sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/ltmain.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/missing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/build-aux/stamp-h1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/cmake/internal_utils.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/codegear/gtest.cbproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/codegear/gtest.groupproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/codegear/gtest_all.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/codegear/gtest_link.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/codegear/gtest_main.cbproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/codegear/gtest_unittest.cbproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/config.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/config.status" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/configure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/configure.ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/fused-src/gtest/.deps/test_fused_gtest_test-gtest-all.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/fused-src/gtest/.deps/test_fused_gtest_test-gtest_main.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/fused-src/gtest/gtest-all.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/fused-src/gtest/gtest.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/fused-src/gtest/gtest_main.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-death-test.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-message.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-param-test.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-param-test.h.pump" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-printers.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-spi.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-test-part.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest-typed-test.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest_pred_impl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/gtest_prod.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-death-test-internal.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-filepath.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-internal.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-linked_ptr.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-param-util-generated.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-param-util-generated.h.pump" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-param-util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-port.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-string.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-tuple.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-tuple.h.pump" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-type-util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/include/gtest/internal/gtest-type-util.h.pump" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest.0.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest.lai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest_main.0.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest_main.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest_main.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest_main.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.libs/libgtest_main.lai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/libgtest.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/libgtest_main.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/libtool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/acx_pthread.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/gtest.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/libtool.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/ltoptions.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/ltsugar.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/ltversion.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/m4/lt~obsolete.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/make/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest-md.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest-md.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest_main-md.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest_main.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest_prod_test-md.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest_prod_test.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest_unittest-md.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/msvc/gtest_unittest.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/sample1.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/sample10_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/sample1_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/sample2.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/sample4.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/test_fused_gtest_test-sample1.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/.deps/test_fused_gtest_test-sample1_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/prime_tables.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample1.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample1.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample10_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample1_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample2.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample2.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample2_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample3-inl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample3_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample4.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample4.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample4_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample5_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample6_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample7_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample8_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/samples/sample9_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/scripts/fuse_gtest_files.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/scripts/gen_gtest_pred_impl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/scripts/gtest-config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/scripts/gtest-config.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/scripts/pump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/scripts/test/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/.deps/gtest-all.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/.deps/gtest_main.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/.dirstamp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/.libs/gtest-all.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/.libs/gtest_main.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-all.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-all.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-all.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-death-test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-filepath.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-internal-inl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-port.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-printers.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-test-part.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest-typed-test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest_main.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest_main.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/gtest_main.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/.deps/gtest_all_test.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-death-test_ex_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-death-test_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-filepath_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-linked_ptr_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-listener_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-message_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-options_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-param-test2_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-param-test_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-param-test_test.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-port_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-printers_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-test-part_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-tuple_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-typed-test2_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-typed-test_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-typed-test_test.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest-unittest-api_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_all_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_break_on_failure_unittest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_break_on_failure_unittest_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_catch_exceptions_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_catch_exceptions_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_color_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_color_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_env_var_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_env_var_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_environment_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_filter_unittest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_filter_unittest_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_help_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_help_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_list_tests_unittest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_list_tests_unittest_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_main_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_no_test_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_output_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_output_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_output_test_golden_lin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_pred_impl_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_prod_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_repeat_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_shuffle_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_shuffle_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_sole_header_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_stress_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_test_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_throw_on_failure_ex_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_throw_on_failure_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_throw_on_failure_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_uninitialized_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_uninitialized_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_xml_outfile1_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_xml_outfile2_test_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_xml_outfiles_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_xml_output_unittest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_xml_output_unittest_.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/gtest_xml_test_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/production.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/test/production.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Config/DebugProject.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Config/FrameworkTarget.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Config/General.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Config/ReleaseProject.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Config/StaticLibraryTarget.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Config/TestTarget.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Samples/FrameworkSample/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Samples/FrameworkSample/WidgetFramework.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Samples/FrameworkSample/runtests.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Samples/FrameworkSample/widget.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Samples/FrameworkSample/widget.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Samples/FrameworkSample/widget_test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Scripts/runtests.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/Scripts/versiongenerate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/xcode/gtest.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/install-sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/AbstractMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/AbstractMessageLite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/AbstractParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/BlockingRpcChannel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/BlockingService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/BoundedByteString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/ByteString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/CodedInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/CodedOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/Descriptors.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/DynamicMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/ExtensionRegistry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/ExtensionRegistryLite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/FieldSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/GeneratedMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/GeneratedMessageLite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/Internal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/InvalidProtocolBufferException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/LazyField.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/LazyStringArrayList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/LazyStringList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/LiteralByteString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/MessageLite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/MessageLiteOrBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/MessageOrBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/Parser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/ProtocolMessageEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/RepeatedFieldBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/RopeByteString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/RpcCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/RpcChannel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/RpcController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/RpcUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/Service.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/ServiceException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/SingleFieldBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/SmallSortedMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/TextFormat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/UninitializedMessageException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/UnknownFieldSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/UnmodifiableLazyStringList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/Utf8.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/main/java/com/google/protobuf/WireFormat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/AbstractMessageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/BoundedByteStringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/ByteStringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/CodedInputStreamTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/CodedOutputStreamTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/DeprecatedFieldTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/DescriptorsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/DynamicMessageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/ForceFieldBuildersPreRun.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/GeneratedMessageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/IsValidUtf8Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/IsValidUtf8TestUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/LazyStringArrayListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/LazyStringEndToEndTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/LiteTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/LiteralByteStringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/MessageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/NestedBuildersTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/ParserTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/RepeatedFieldBuilderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/RopeByteStringSubstringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/RopeByteStringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/ServiceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/SingleFieldBuilderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/SmallSortedMapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/TestBadIdentifiers.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/TestUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/TextFormatTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/UnknownFieldSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/UnmodifiableLazyStringListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/WireFormatTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/multiple_files_test.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/nested_builders_test.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/nested_extension.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/nested_extension_lite.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/non_nested_extension.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/non_nested_extension_lite.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/java/src/test/java/com/google/protobuf/test_bad_identifiers.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/libtool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/ltmain.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/ac_system_extensions.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/acx_check_suncc.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/acx_pthread.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/libtool.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/ltoptions.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/ltsugar.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/ltversion.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/lt~obsolete.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/m4/stl_hash.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/missing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/protobuf-lite.pc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/protobuf-lite.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/protobuf.pc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/protobuf.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/ez_setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/descriptor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/descriptor_database.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/descriptor_pool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/api_implementation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/containers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/cpp_message.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/descriptor_database_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/descriptor_pool_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/descriptor_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/encoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/enum_type_wrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/factory_test1.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/factory_test2.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/generator_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/message_cpp_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/message_factory_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/message_listener.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/message_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/more_extensions.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/more_extensions_dynamic.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/more_messages.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/python_message.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/reflection_cpp_generated_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/reflection_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/service_reflection_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/test_bad_identifiers.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/test_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/text_format_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/type_checkers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/unknown_fields_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/wire_format.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/internal/wire_format_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/message.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/message_factory.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/pyext/python-proto2.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/pyext/python_descriptor.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/pyext/python_descriptor.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/pyext/python_protobuf.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/pyext/python_protobuf.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/reflection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/service.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/service_reflection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/google/protobuf/text_format.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/mox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/python/stubout.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/atomicops_internals_x86_gcc.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/atomicops_internals_x86_msvc.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/code_generator.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/coded_stream.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/command_line_interface.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/common.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_enum.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_enum_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_extension.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_file.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_generator.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_helpers.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_message.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_message_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_primitive_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_service.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/cpp_string_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/descriptor.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/descriptor.pb.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/descriptor_database.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/dynamic_message.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/extension_set.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/extension_set_heavy.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/generated_message_reflection.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/generated_message_util.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/gzip_stream.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/importer.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_doc_comment.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_enum.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_enum_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_extension.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_file.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_generator.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_helpers.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_message.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_message_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_primitive_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_service.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/java_string_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/main.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/message.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/message_lite.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/once.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/parser.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/plugin.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/plugin.pb.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/printer.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-cpp_test_bad_identifiers.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-cpp_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-file.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-googletest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-test_util.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_custom_options.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_embed_optimize_for.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_empty.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_import.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_import_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_import_public.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_import_public_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_lite_imports_nonlite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_mset.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_no_generic_services.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lazy_descriptor_test-unittest_optimize_for.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lite_test-lite_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lite_test-test_util_lite.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lite_test-unittest_import_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lite_test-unittest_import_public_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_lite_test-unittest_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-coded_stream_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-command_line_interface_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-common_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-cpp_bootstrap_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-cpp_plugin_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-cpp_test_bad_identifiers.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-cpp_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-descriptor_database_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-descriptor_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-dynamic_message_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-extension_set_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-file.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-generated_message_reflection_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-googletest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-importer_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-java_doc_comment_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-java_plugin_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-message_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-mock_code_generator.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-once_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-parser_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-printer_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-python_plugin_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-reflection_ops_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-repeated_field_reflection_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-repeated_field_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-stringprintf_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-structurally_valid_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-strutil_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-template_util_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-test_util.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-text_format_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-tokenizer_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-type_traits_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_custom_options.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_embed_optimize_for.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_empty.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_import.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_import_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_import_public.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_import_public_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_lite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_lite_imports_nonlite.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_mset.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_no_generic_services.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unittest_optimize_for.pb.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-unknown_field_set_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-wire_format_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/protobuf_test-zero_copy_stream_unittest.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/python_generator.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/reflection_ops.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/repeated_field.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/service.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/stringprintf.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/structurally_valid.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/strutil.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/subprocess.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/substitute.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/test_plugin-file.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/test_plugin-mock_code_generator.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/test_plugin-test_plugin.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/text_format.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/tokenizer.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/unknown_field_set.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/wire_format.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/wire_format_lite.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/zcgunzip.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/zcgzip.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/zero_copy_stream.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/zero_copy_stream_impl.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/zero_copy_stream_impl_lite.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.deps/zip_writer.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/atomicops_internals_x86_gcc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/atomicops_internals_x86_msvc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/code_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/coded_stream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/command_line_interface.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/common.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_enum.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_enum_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_extension.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_helpers.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_message_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_primitive_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_service.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/cpp_string_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/descriptor.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/descriptor.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/descriptor_database.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/dynamic_message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/extension_set.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/extension_set_heavy.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/generated_message_reflection.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/generated_message_util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/gzip_stream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/importer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_doc_comment.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_enum.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_enum_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_extension.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_helpers.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_message_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_primitive_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_service.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/java_string_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf-lite.8.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf-lite.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf-lite.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf-lite.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf-lite.lai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf.8.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotobuf.lai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotoc.8.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotoc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotoc.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotoc.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/libprotoc.lai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/message_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/once.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/parser.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/plugin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/plugin.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/printer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/protobuf-lazy-descriptor-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/protobuf-lite-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/protobuf-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/protoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/python_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/reflection_ops.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/repeated_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/service.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/stringprintf.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/structurally_valid.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/strutil.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/subprocess.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/substitute.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/test_plugin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/text_format.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/tokenizer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/unknown_field_set.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/wire_format.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/wire_format_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/zcgunzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/zcgzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/zero_copy_stream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/zero_copy_stream_impl.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/zero_copy_stream_impl_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/.libs/zip_writer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/Makefile.am" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/Makefile.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/atomicops_internals_x86_gcc.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/atomicops_internals_x86_gcc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/atomicops_internals_x86_msvc.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/atomicops_internals_x86_msvc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/code_generator.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/code_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/coded_stream.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/coded_stream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/command_line_interface.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/command_line_interface.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/common.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/common.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_enum.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_enum.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_enum_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_enum_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_extension.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_extension.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_file.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_generator.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_helpers.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_helpers.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_message.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_message_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_message_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_primitive_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_primitive_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_service.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_service.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_string_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/cpp_string_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/descriptor.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/descriptor.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/descriptor.pb.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/descriptor.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/descriptor_database.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/descriptor_database.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/dynamic_message.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/dynamic_message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/extension_set.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/extension_set.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/extension_set_heavy.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/extension_set_heavy.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/generated_message_reflection.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/generated_message_reflection.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/generated_message_util.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/generated_message_util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/code_generator.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/code_generator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/command_line_interface.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/command_line_interface.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/command_line_interface_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_bootstrap_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_enum.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_enum.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_enum_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_enum_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_extension.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_extension.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_file.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_file.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_generator.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_generator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_helpers.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_helpers.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_message.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_message.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_message_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_message_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_options.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_plugin_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_primitive_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_primitive_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_service.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_service.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_string_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_string_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_test_bad_identifiers.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_test_bad_identifiers.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_test_bad_identifiers.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/cpp/cpp_unittest.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/importer.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/importer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/importer_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_doc_comment.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_doc_comment.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_doc_comment_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_enum.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_enum.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_enum_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_enum_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_extension.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_extension.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_file.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_file.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_generator.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_generator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_helpers.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_helpers.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_message.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_message.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_message_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_message_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_plugin_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_primitive_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_primitive_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_service.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_service.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_string_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/java/java_string_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/main.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/mock_code_generator.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/mock_code_generator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/package_info.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/parser.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/parser.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/parser_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/plugin.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/plugin.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/plugin.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/plugin.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/plugin.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/python/python_generator.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/python/python_generator.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/python/python_plugin_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/subprocess.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/subprocess.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/test_plugin.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/zip_output_unittest.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/zip_writer.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/compiler/zip_writer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor_database.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor_database.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor_database_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/descriptor_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/dynamic_message.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/dynamic_message.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/dynamic_message_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/extension_set.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/extension_set.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/extension_set_heavy.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/extension_set_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/generated_enum_reflection.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/generated_message_reflection.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/generated_message_reflection.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/generated_message_reflection_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/generated_message_util.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/generated_message_util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/coded_stream.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/coded_stream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/coded_stream_inl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/coded_stream_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/gzip_stream.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/gzip_stream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/gzip_stream_unittest.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/package_info.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/printer.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/printer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/printer_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/tokenizer.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/tokenizer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/tokenizer_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_impl.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_impl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_impl_lite.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_impl_lite.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/lite_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/message.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/message.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/message_lite.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/message_lite.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/message_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/package_info.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/reflection_ops.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/reflection_ops.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/reflection_ops_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/repeated_field.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/repeated_field.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/repeated_field_reflection_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/repeated_field_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/service.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/service.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_arm_gcc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_arm_qnx.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_atomicword_compat.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_macosx.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_mips_gcc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_pnacl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_x86_gcc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_x86_msvc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/common.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/common.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/common_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/hash.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/map-util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/once.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/once.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/once_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/platform_macros.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/stl_util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/stringprintf.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/stringprintf.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/stringprintf_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/structurally_valid.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/structurally_valid_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/strutil.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/strutil.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/strutil_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/substitute.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/substitute.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/template_util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/template_util_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/type_traits.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/stubs/type_traits_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/test_util.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/test_util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/test_util_lite.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/test_util_lite.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testdata/golden_message" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testdata/golden_packed_fields_message" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testdata/text_format_unittest_data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testdata/text_format_unittest_extensions_data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testing/file.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testing/file.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testing/googletest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testing/googletest.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testing/zcgunzip.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/testing/zcgzip.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/text_format.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/text_format.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/text_format_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_custom_options.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_custom_options.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_custom_options.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_embed_optimize_for.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_embed_optimize_for.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_embed_optimize_for.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_empty.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_empty.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_empty.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_enormous_descriptor.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_lite.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_lite.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_lite.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_public.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_public.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_public.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_public_lite.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_public_lite.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_import_public_lite.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_lite.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_lite.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_lite.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_lite_imports_nonlite.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_lite_imports_nonlite.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_lite_imports_nonlite.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_mset.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_mset.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_mset.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_no_generic_services.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_no_generic_services.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_no_generic_services.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_optimize_for.pb.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_optimize_for.pb.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unittest_optimize_for.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unknown_field_set.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unknown_field_set.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/unknown_field_set_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/wire_format.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/wire_format.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/wire_format_lite.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/wire_format_lite.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/wire_format_lite_inl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/google/protobuf/wire_format_unittest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/gzip_stream.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/gzip_stream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/importer.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/importer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_doc_comment.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_doc_comment.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_enum.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_enum.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_enum_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_enum_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_extension.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_extension.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_file.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_generator.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_helpers.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_helpers.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_message.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_message_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_message_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_primitive_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_primitive_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_service.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_service.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_string_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/java_string_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/libprotobuf-lite.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/libprotobuf.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/libprotoc.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/main.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/message.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/message.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/message_lite.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/message_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/once.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/once.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/parser.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/parser.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/plugin.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/plugin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/plugin.pb.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/plugin.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/printer.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/printer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf-lazy-descriptor-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf-lite-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf-test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-cpp_test_bad_identifiers.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-cpp_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-googletest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-test_util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_custom_options.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_embed_optimize_for.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_empty.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_import.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_import_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_import_public.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_import_public_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_lite_imports_nonlite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_mset.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_no_generic_services.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lazy_descriptor_test-unittest_optimize_for.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lite_test-lite_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lite_test-test_util_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lite_test-unittest_import_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lite_test-unittest_import_public_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_lite_test-unittest_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-coded_stream_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-command_line_interface_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-common_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-cpp_bootstrap_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-cpp_plugin_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-cpp_test_bad_identifiers.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-cpp_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-descriptor_database_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-descriptor_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-dynamic_message_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-extension_set_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-generated_message_reflection_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-googletest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-importer_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-java_doc_comment_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-java_plugin_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-message_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-mock_code_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-once_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-parser_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-printer_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-python_plugin_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-reflection_ops_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-repeated_field_reflection_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-repeated_field_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-stringprintf_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-structurally_valid_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-strutil_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-template_util_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-test_util.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-text_format_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-tokenizer_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-type_traits_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_custom_options.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_embed_optimize_for.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_empty.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_import.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_import_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_import_public.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_import_public_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_lite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_lite_imports_nonlite.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_mset.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_no_generic_services.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unittest_optimize_for.pb.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-unknown_field_set_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-wire_format_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protobuf_test-zero_copy_stream_unittest.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/protoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/python_generator.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/python_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/reflection_ops.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/reflection_ops.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/repeated_field.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/repeated_field.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/service.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/service.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/solaris/libstdc++.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/stringprintf.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/stringprintf.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/structurally_valid.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/structurally_valid.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/strutil.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/strutil.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/subprocess.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/subprocess.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/substitute.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/substitute.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/test_plugin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/test_plugin-file.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/test_plugin-mock_code_generator.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/test_plugin-test_plugin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/testzip.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/testzip.list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/testzip.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/testzip.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/text_format.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/text_format.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/tokenizer.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/tokenizer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/unittest_proto_middleman" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/unknown_field_set.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/unknown_field_set.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/wire_format.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/wire_format.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/wire_format_lite.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/wire_format_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zcgunzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zcgunzip.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zcgzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zcgzip.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zero_copy_stream.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zero_copy_stream.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zero_copy_stream_impl.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zero_copy_stream_impl.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zero_copy_stream_impl_lite.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zero_copy_stream_impl_lite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zip_writer.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/src/zip_writer.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/stamp-h1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/config.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/convert2008to2005.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/extract_includes.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/libprotobuf-lite.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/libprotobuf.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/libprotoc.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/lite-test.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/protobuf.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/protoc.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/test_plugin.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/vsprojects/tests.vcproj" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/lib/.dirstamp" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/protobuf-2.5.0/gtest/src/.deps/.dirstamp" afterPath="$PROJECT_DIR$/heroku_config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UDPServer.iws" />
@@ -26,42 +1155,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="16" selection-start="918" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
+            <state line="35" column="59" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.49810246" vertical-offset="0" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ip_analyzer_spec.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/ip_analyzer_spec.js">
+      <file leaf-file-name="config.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="30" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+            <state line="4" column="19" selection-start="0" selection-end="437" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memory_persistance_layer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/memory_persistance_layer.js">
+      <file leaf-file-name="heroku_config.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/heroku_config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="420">
+            <state line="3" column="16" selection-start="66" selection-end="66" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config_loader.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config_loader.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="44" selection-start="113" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="114" selection-start="881" selection-end="881" vertical-scroll-proportion="0.15166835" vertical-offset="0" max-vertical-offset="989">
+            <state line="10" column="114" selection-start="881" selection-end="881" vertical-scroll-proportion="-2.8846154" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -126,18 +1273,20 @@
         <option value="$PROJECT_DIR$/http_server.js" />
         <option value="$PROJECT_DIR$/udp_server.js" />
         <option value="$PROJECT_DIR$/config.json" />
-        <option value="$PROJECT_DIR$/config_loader.js" />
         <option value="$PROJECT_DIR$/tests/config_loader_test.js" />
         <option value="$PROJECT_DIR$/tests/couch_persistance_layer_tests.js" />
         <option value="$PROJECT_DIR$/tests/ip_analyzer_tests.js" />
         <option value="$PROJECT_DIR$/tests/ip_analyzer_spec.js" />
         <option value="$PROJECT_DIR$/unique_filter.js" />
         <option value="$PROJECT_DIR$/couch_persistance_layer.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/setup_couch.js" />
         <option value="$PROJECT_DIR$/ip_analyzer.js" />
         <option value="$PROJECT_DIR$/spec/ip_analyzer_spec.js" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/config_loader.js" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/heroku_config.json" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -369,12 +1518,18 @@
       <created>1399940472365</created>
       <updated>1399940472365</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding client output to readme">
+      <created>1400081263341</created>
+      <updated>1400081263341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1174" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -407,6 +1562,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="adding client output to readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding client output to readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,19 +1668,9 @@
         <state line="1" column="72" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="91" selection-end="91" vertical-scroll-proportion="-0.7692308" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/http_server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="52" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unique_filter.js">
@@ -533,16 +1680,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="918" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/memory_persistance_layer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="7" column="13" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
@@ -577,12 +1717,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="114" selection-start="881" selection-end="881" vertical-scroll-proportion="0.15166835" vertical-offset="0" max-vertical-offset="989">
+        <state line="10" column="114" selection-start="881" selection-end="881" vertical-scroll-proportion="-2.8846154" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="0" selection-end="437" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="44" selection-start="113" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroku_config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="66" selection-end="66" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="59" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.49810246" vertical-offset="0" max-vertical-offset="1054">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
